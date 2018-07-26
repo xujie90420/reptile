@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: reptile
+  mail:
+    host: smtp.qq.com
+    username: 705319396@qq.com
+    password: epxclbjdagmjbbji
+    default-encoding: UTF-8
+server:
+  port: 8888
+mail:
+  fromMail:
+    addr: 705319396@qq.com
+digitalCurrency:
+  type: EOS/QC
